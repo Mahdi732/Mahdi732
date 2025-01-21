@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical)
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Mahdi732&color=blue)
+
+
