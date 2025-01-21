@@ -1,35 +1,27 @@
 # Hi there! 👋 Welcome to my GitHub Profile!
 
-🌟 **About Me:**
-- 🔭 I’m currently working on exciting projects in [Python/JavaScript/...].
-- 🌱 I’m learning [new frameworks/tools/...].
-- 👯 Open to collaborating on open-source projects.
-- 💬 Ask me about coding, anime, or anything tech-related.
-- ⚡ Fun fact: I love **foggy mornings** and think **Attack on Titan** is the best anime ever!
+### 🌟 About Me
+- 🔭 Currently working on **[insert your project or domain, e.g., Python web apps, AI, etc.]**.
+- 🌱 Exploring **[specific skills or technologies, e.g., Rust, Kubernetes, etc.]**.
+- 👯 Open to collaborating on **open-source projects** and **exciting coding challenges**.
+- 💬 Ask me about **programming, anime, or great novels**.
+- ⚡ Fun fact: **I love foggy mornings** and believe **Attack on Titan** is the greatest anime of all time!
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&theme=radical" alt="Mahdi732 GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </div>
 
 ---
 
-## 🔥 Current Activity
+## 🔥 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mahdi732&theme=react-dark" alt="Activity Graph"/>
-</div>
-
----
-
-## 🌐 Visitor Count
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahdi732&color=blue" alt="Profile Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi732&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -52,19 +44,33 @@
 
 ---
 
-## 💬 Motivational Quote of the Day
+## 💬 Quote of the Day
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
 </div>
 
 ---
 
-### ✨ Let's Connect!
+## 🌐 Visitor Count
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahdi732&color=blue" alt="Profile Views"/>
+</div>
 
 ---
 
-✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
+### ✨ Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</div>
+
+---
+
+✨ _"Keep pushing boundaries and creating magic with code!"_
