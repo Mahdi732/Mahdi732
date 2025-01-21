@@ -1,91 +1,74 @@
-# 👋 Welcome to Mahdi's Tech Universe! 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding Animation" width="450"/>
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies)](https://git.io/typing-svg)
-</div>
-
-## 🌟 About Me: The Code Artisan
-
-```javascript
-const mahdi = {
-    location: "Planet Earth 🌍",
-    currentFocus: "Building the future of web applications",
-    code: ["JavaScript", "Python", "TypeScript", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "SASS"],
-            state: ["Redux", "Zustand"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "FastAPI"],
-            misc: ["GraphQL", "REST"]
-        },
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
-        currentLearning: ["Machine Learning", "Web3", "Cloud Architecture"]
-    },
-    lifePhilosophy: "Code, Create, Innovate, Repeat!"
-};
-```
-
-## 🎯 Current Focus & Aspirations
-
-- 🔭 **Building:** A revolutionary AI-powered web platform
-- 🌱 **Learning:** Advanced ML algorithms & Cloud Architecture
-- 👯 **Seeking:** Collaboration on innovative open-source projects
-- 🎮 **Hobbies:** Gaming, Anime, Tech Exploration
-- 📚 **Reading:** Latest tech papers and sci-fi novels
-- 🎯 **2025 Goals:** Master System Design & Contribute to major open source projects
-
-## 📊 My GitHub Symphony
-
 <div align="center">
   
-  <!-- GitHub Stats Card with Custom Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9" height="165"/>
-  
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff7&text_color=c9d1d9" height="165"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+👋+Welcome+to+my+Tech+Universe!;🚀+Full+Stack+Developer+and+Tech+Enthusiast;🌟+Creating+Beautiful+Web+Experiences;✨+Let's+Build+Something+Amazing+Together)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
-## 🏆 Achievements Showcase
+<p align="center">
+  <img src="https://img.shields.io/badge/Working_With-Web_Development-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Loves-JavaScript-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prefers-Dark_Mode-black?style=for-the-badge" />
+</p>
+
+# 🌟 Welcome to My Digital Garden! 
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
+## 🚀 Quick Facts About Me
+
+- 🎯 Currently crafting amazing web experiences
+- 💡 Always exploring new web technologies
+- 🌐 Building the next generation of web apps
+- 🎮 Gaming enthusiast when not coding
+- 🎵 Coding with music = productivity++
+- ⚡ Fun fact: I can debug code faster with coffee ☕
+
+## 🛠️ My Favorite Tech Stack 
 
 <div align="center">
   
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi732&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi732&theme=radical&hide_border=true&background=0D1117&stroke=00fff7&ring=00fff7&fire=00fff7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00fff7&sideLabels=00fff7&dates=c9d1d9" alt="GitHub Streak"/>
+### 💫 Frontend Magic
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🏗️ Backend Brilliance
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗃️ Database & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🛠️ Development Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-## 🛠️ Tech Arsenal
+## 📊 My GitHub Journey
 
 <div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=Mahdi732&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><br>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahdi732&theme=tokyonight&hide_border=true" />
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi732&theme=react-dark&hide_border=true&bg_color=0D1117&line=00faff&point=ffffff" width="100%"/>
 
 </div>
 
@@ -93,50 +76,43 @@ const mahdi = {
 
 <div align="center">
 
-[![Luxury_V2](https://github-readme-stats.vercel.app/api/pin/?username=Mahdi732&repo=Luxury_V2&theme=radical&hide_border=true&bg_color=0D1117&title_color=00fff7&icon_color=00fff7&text_color=c9d1d9)](https://github.com/Mahdi732/Luxury_V2)
-
-### Other Notable Projects
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌐 Web3 DApp | Decentralized application with smart contracts | React, Solidity, Web3.js |
-| 🤖 AI Chat Bot | Intelligent chatbot with natural language processing | Python, TensorFlow, FastAPI |
-| 📱 Mobile App | Cross-platform mobile application | React Native, Firebase |
+[![Luxury_V2](https://github-readme-stats.vercel.app/api/pin/?username=Mahdi732&repo=Luxury_V2&theme=tokyonight&hide_border=true)](https://github.com/Mahdi732/Luxury_V2)
 
 </div>
 
-## 📈 Coding Activity
+## 💫 Coding Metrics
 
 <div align="center">
-  
-  <!-- WakaTime Stats -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi732&theme=react-dark&hide_border=true&area=true&line=00fff7&point=00fff7&area_color=00fff7" width="100%"/>
+
+![Metrics](https://metrics.lecoq.io/Mahdi732?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&stars.limit=4&config.timezone=America%2FToronto)
 
 </div>
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect and Build Together!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/your-discord)
 
 </div>
 
-## 💭 Daily Tech Quote
+## 📈 Visitor Count
 
 <div align="center">
   
-> "The only way to do great work is to love what you do." - Steve Jobs
-
-![Visitor Count](https://profile-counter.glitch.me/Mahdi732/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Mahdi732&color=blueviolet&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Mahdi732?style=for-the-badge&label=Followers)](https://github.com/Mahdi732)
+[![GitHub Stars](https://img.shields.io/github/stars/Mahdi732?style=for-the-badge&label=Stars)](https://github.com/Mahdi732)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30px">
-  <span>Created with ❤️ and a lot of ☕</span>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  
+  ![Made with ❤️ by Mahdi](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mahdi-red?style=for-the-badge)
 </div>
