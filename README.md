@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 
 ![Motivational Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?Mahdi732&repo=Luxury_V2&theme=radical)](https://github.com/your_username/repository_name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?Mahdi732&repo=Luxury_V2&theme=radical)](https://github.com/Mahdi732/Luxury_V2)
 
