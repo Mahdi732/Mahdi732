@@ -1,50 +1,54 @@
-# Hi there! 👋 Welcome to my GitHub Profile!
+# Welcome to My GitHub Profile! 👋
 
-### 🌟 About Me
-- 🔭 Currently working on **[insert your project or domain, e.g., Python web apps, AI, etc.]**.
-- 🌱 Exploring **[specific skills or technologies, e.g., Rust, Kubernetes, etc.]**.
-- 👯 Open to collaborating on **open-source projects** and **exciting coding challenges**.
-- 💬 Ask me about **programming, anime, or great novels**.
-- ⚡ Fun fact: **I love foggy mornings** and believe **Attack on Titan** is the greatest anime of all time!
+### 🌟 **About Me**
+- 🔭 **Currently working on**: Building **web apps, APIs**, and exploring **AI/ML**.
+- 🌱 **Learning**: Diving deeper into **React**, **Next.js**, and **GraphQL**.
+- 👯 **Looking to collaborate**: Open to contributions on **open-source projects** or **new challenges**.
+- 💬 **Ask me about**: **Coding**, **Anime**, **Video Games**, and **Science Fiction**.
+- ⚡ **Fun Fact**: I’m a huge fan of **Attack on Titan** and believe **foggy mornings** are the best!
+- 🌍 **Languages I Speak**: English, Arabic, and a little bit of **Python** 😉.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats & Activity**
 
+### 🚀 **My GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&theme=radical" alt="GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&hide=prs&count_private=true&theme=radical" alt="GitHub Stats" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical" alt="Top Languages" height="180em"/>
 </div>
 
----
-
-## 🔥 Activity Graph
-
+### 🔥 **Contribution Activity**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi732&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi732&theme=react-dark&hide_border=true&line=3a8cff&point=00ff8c" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi732&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi732&theme=radical&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
-### Custom Badges
-- ![Programming](https://img.shields.io/badge/Programming-Python-blue)
-- ![Anime Lover](https://img.shields.io/badge/Anime-Attack_on_Titan-red)
+### **Badges**
+- ![Programming](https://img.shields.io/badge/Programming-Python-blue?style=flat-square)
+- ![Anime Lover](https://img.shields.io/badge/Anime-Attack_on_Titan-red?style=flat-square)
+- ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square)
 
 ---
 
-## 🎯 Featured Project
+## 🎯 **Featured Project**
+
+### 🌟 [**Luxury_V2**](https://github.com/Mahdi732/Luxury_V2)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahdi732&repo=Luxury_V2&theme=radical)](https://github.com/Mahdi732/Luxury_V2)
 
+> **Luxury_V2** is a **web-based application** built using **[React]** and **[Node.js]**, designed to provide users with a smooth experience in managing their daily tasks. It also integrates **dark mode** and **real-time notifications**.
+
 ---
 
-## 💬 Quote of the Day
+## 💬 **Quote of the Day**
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day"/>
@@ -52,7 +56,7 @@
 
 ---
 
-## 🌐 Visitor Count
+## 🌐 **Visitor Count**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mahdi732&color=blue" alt="Profile Views"/>
@@ -60,17 +64,25 @@
 
 ---
 
-### ✨ Connect With Me
+## ✨ **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-orange?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+
+---
+
+## 🌟 **Technologies & Tools I Use**
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
+  <img src="https://img.shields.io/badge/Frontend-React-61dafb?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Database-MongoDB-47a248?style=for-the-badge&logo=mongodb" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Version%20Control-Git-F05032?style=for-the-badge&logo=git" alt="Git"/>
 </div>
 
 ---
 
-✨ _"Keep pushing boundaries and creating magic with code!"_
+## ✨ **Let's Code and Create!**
+
+> **"Code is not just a tool to create things; it's a medium to express your creativity and solve problems!"**
