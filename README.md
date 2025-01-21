@@ -39,7 +39,7 @@
 
 ### 🏗️ Backend Brilliance
 ![Laravel](https://img.shields.io/badge/Laravel-6DA55F?style=for-the-badge&logo=Laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![php](https://img.shields.io/badge/-php-E10098?style=for-the-badge&logo=php&logoColor=white)
 
 ### 🗃️ Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
