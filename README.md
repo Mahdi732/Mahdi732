@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mahdi732&color=blue)
 
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mahdi732&theme=react-dark)
+
+
 
