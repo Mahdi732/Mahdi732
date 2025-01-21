@@ -3,10 +3,7 @@
 ### 🌟 **About Me**
 - 🔭 **Currently working on**: Building **web apps, APIs**, and exploring **AI/ML**.
 - 🌱 **Learning**: Diving deeper into **React**, **Next.js**, and **GraphQL**.
-- 👯 **Looking to collaborate**: Open to contributions on **open-source projects** or **new challenges**.
-- 💬 **Ask me about**: **Coding**, **Anime**, **Video Games**, and **Science Fiction**.
-- ⚡ **Fun Fact**: I’m a huge fan of **Attack on Titan** and believe **foggy mornings** are the best!
-- 🌍 **Languages I Speak**: English, Arabic, and a little bit of **Python** 😉.
+- 👯 **Looking to collaborate**: Open to contributions on **open-source projects** or **new challenges**.=
 
 ---
 
@@ -32,7 +29,7 @@
 </div>
 
 ### **Badges**
-- ![Programming](https://img.shields.io/badge/Programming-Python-blue?style=flat-square)
+- ![Programming](https://img.shields.io/badge/Programming-php-blue?style=flat-square)
 - ![Anime Lover](https://img.shields.io/badge/Anime-Attack_on_Titan-red?style=flat-square)
 - ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square)
 
