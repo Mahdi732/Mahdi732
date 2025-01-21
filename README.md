@@ -26,4 +26,8 @@ Here are some ideas to get you started:
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mahdi732&theme=react-dark)
 
 
+![Badge](https://img.shields.io/badge/Programming-Python-blue)
+![Anime Lover](https://img.shields.io/badge/Anime-Attack_on_Titan-red)
+
+
 
