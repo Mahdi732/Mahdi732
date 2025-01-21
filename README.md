@@ -1,36 +1,70 @@
-## Hi there 👋
+# Hi there! 👋 Welcome to my GitHub Profile!
 
-<!--
-**Mahdi732/Mahdi732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me:**
+- 🔭 I’m currently working on exciting projects in [Python/JavaScript/...].
+- 🌱 I’m learning [new frameworks/tools/...].
+- 👯 Open to collaborating on open-source projects.
+- 💬 Ask me about coding, anime, or anything tech-related.
+- ⚡ Fun fact: I love **foggy mornings** and think **Attack on Titan** is the best anime ever!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahdi732&show_icons=true&theme=radical" alt="Mahdi732 GitHub Stats" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical" alt="Most Used Languages" height="180em"/>
+</div>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi732&layout=compact&theme=radical)
+## 🔥 Current Activity
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mahdi732&theme=react-dark" alt="Activity Graph"/>
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mahdi732&color=blue)
+---
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mahdi732&theme=react-dark)
+## 🌐 Visitor Count
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mahdi732&color=blue" alt="Profile Views"/>
+</div>
 
-![Badge](https://img.shields.io/badge/Programming-Python-blue)
-![Anime Lover](https://img.shields.io/badge/Anime-Attack_on_Titan-red)
+---
 
+## 🏆 Achievements & Badges
 
-![Motivational Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahdi732&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?Mahdi732&repo=Luxury_V2&theme=radical)](https://github.com/Mahdi732/Luxury_V2)
+### Custom Badges
+- ![Programming](https://img.shields.io/badge/Programming-Python-blue)
+- ![Anime Lover](https://img.shields.io/badge/Anime-Attack_on_Titan-red)
 
+---
+
+## 🎯 Featured Project
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mahdi732&repo=Luxury_V2&theme=radical)](https://github.com/Mahdi732/Luxury_V2)
+
+---
+
+## 💬 Motivational Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Motivational Quote"/>
+</div>
+
+---
+
+### ✨ Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/your-twitter)
+
+---
+
+✨ _"Code is like humor. When you have to explain it, it’s bad."_ ✨
