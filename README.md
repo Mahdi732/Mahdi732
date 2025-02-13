@@ -1,6 +1,6 @@
 <!-- Header Banner with Background -->
 <div align="center">
-  <img width="100%" height="auto" src="[https://cherry.img.pmdstatic.net/fit/https.3A.2F.2Fimg.2Egamesider.2Ecom.2Fsto.2Fgallery.2F50fb937037adc7f9_61f942531ca08d13db48ad99.2Ejpeg/640x360/quality/80/3-eren-detruit-mikassa-psychologiquement.jpg](https://images6.alphacoders.com/137/thumbbig-1373123.webp)" height="175px"/>
+  <img width="100%" height="auto" src="https://images6.alphacoders.com/137/thumbbig-1373123.webp" height="175px"/>
 </div> 
 
 <div align="center"> 
