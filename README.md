@@ -1,19 +1,23 @@
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+Tech+Universe!;%F0%9F%9A%80+Full+Stack+Developer+%26+Tech+Innovator;%F0%9F%8C%9F+Creating+Digital+Magic;%E2%9C%A8+Let's+Build+the+Future+Together;%F0%9F%92%BB+Code+%7C+Create+%7C+Innovate)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+👋+Welcome+to+my+Tech+Universe!;🚀+Full+Stack+Developer+and+Tech+Enthusiast;🌟+Creating+Beautiful+Web+Experiences;✨+Let's+Build+Something+Amazing+Together;💻+Turning+Coffee+into+Code;🎮+Gamer+by+Night,+Coder+by+Day)](https://git.io/typing-svg)
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
-  <!-- Background with gradient animation -->
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Working_With-Web_Development-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Loves-JavaScript-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prefers-Dark_Mode-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Powered_By-Coffee-brown?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Working_With-Web_Development-blue?style=for-the-badge&logoColor=white&logo=webflow" />
+  <img src="https://img.shields.io/badge/Loves-JavaScript-yellow?style=for-the-badge&logoColor=white&logo=javascript" />
+  <img src="https://img.shields.io/badge/Prefers-Dark_Mode-black?style=for-the-badge&logoColor=white&logo=dark-reader" />
+  <img src="https://img.shields.io/badge/Powered_By-Coffee-brown?style=for-the-badge&logoColor=white&logo=buy-me-a-coffee" />
 </p>
 
 # 🌟 Welcome to My Digital Garden! 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="Coding Animation" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ## 🚀 Quick Facts About Me
 - 🎯 Currently crafting amazing web experiences
@@ -111,4 +115,5 @@ const currentFocus = {
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
   ![Made with ❤️ by Mahdi](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mahdi-red?style=for-the-badge)
+</div>
 </div>
