@@ -1,3 +1,5 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+👋+Welcome+to+my+Tech+Universe!;🚀+Full+Stack+Developer+and+Tech+Enthusiast;🌟+Creating+Beautiful+Web+Experiences;✨+Let's+Build+Something+Amazing+Together;💻+Turning+Coffee+into+Code;🎮+Gamer+by+Night,+Coder+by+Day)](https://git.io/typing-svg)
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
   <!-- Background with gradient animation -->
   <defs>
@@ -47,8 +49,6 @@
     <animate attributeName="opacity" values="0;1" dur="1s" begin="0s" fill="freeze"/>
   </text>
 </svg>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+👋+Welcome+to+my+Tech+Universe!;🚀+Full+Stack+Developer+and+Tech+Enthusiast;🌟+Creating+Beautiful+Web+Experiences;✨+Let's+Build+Something+Amazing+Together;💻+Turning+Coffee+into+Code;🎮+Gamer+by+Night,+Coder+by+Day)](https://git.io/typing-svg)
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
 <p align="center">
