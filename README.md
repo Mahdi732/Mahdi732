@@ -1,3 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400">
+  <!-- Background with gradient animation -->
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1">
+        <animate attributeName="stop-color" values="#0D1117;#161B22;#0D1117" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#161B22;stop-opacity:1">
+        <animate attributeName="stop-color" values="#161B22;#0D1117;#161B22" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background rectangle -->
+  <rect width="100%" height="100%" fill="url(#grad1)"/>
+  
+  <!-- Animated tech symbols -->
+  <g filter="url(#glow)">
+    <text x="50%" y="30%" text-anchor="middle" fill="#A9FEF7" font-size="24">
+      <tspan x="50%" dy="0">{ }</tspan>
+      <animate attributeName="opacity" values="0;1;0" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <text x="30%" y="50%" text-anchor="middle" fill="#A9FEF7" font-size="24">
+      &lt;/&gt;
+      <animate attributeName="opacity" values="1;0;1" dur="3s" repeatCount="indefinite"/>
+    </text>
+    
+    <text x="70%" y="50%" text-anchor="middle" fill="#A9FEF7" font-size="24">
+      #
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+
+  <!-- Main title with typing animation -->
+  <text x="50%" y="50%" text-anchor="middle" fill="#A9FEF7" font-size="32" filter="url(#glow)">
+    Welcome to my Tech Universe!
+    <animate attributeName="opacity" values="0;1" dur="1s" begin="0s" fill="freeze"/>
+  </text>
+</svg>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+👋+Welcome+to+my+Tech+Universe!;🚀+Full+Stack+Developer+and+Tech+Enthusiast;🌟+Creating+Beautiful+Web+Experiences;✨+Let's+Build+Something+Amazing+Together;💻+Turning+Coffee+into+Code;🎮+Gamer+by+Night,+Coder+by+Day)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
