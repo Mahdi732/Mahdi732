@@ -3,7 +3,7 @@
   <img width="100%" height="auto" src="https://cherry.img.pmdstatic.net/fit/https.3A.2F.2Fimg.2Egamesider.2Ecom.2Fsto.2Fgallery.2F50fb937037adc7f9_61f942531ca08d13db48ad99.2Ejpeg/640x360/quality/80/3-eren-detruit-mikassa-psychologiquement.jpg" height="175px"/>
 </div>
 
-<div align="center">
+<div align="center"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there+%F0%9F%91%8B+Welcome+to+my+Tech+Universe!;%F0%9F%9A%80+Full+Stack+Developer+%26+Tech+Innovator;%F0%9F%8C%9F+Creating+Digital+Magic;%E2%9C%A8+Let's+Build+the+Future+Together;%F0%9F%92%BB+Code+%7C+Create+%7C+Innovate)](https://git.io/typing-svg)
 
