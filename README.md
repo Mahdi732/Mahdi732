@@ -78,7 +78,9 @@
 <div align="center">
 
 [![Luxury_V2](https://github-readme-stats.vercel.app/api/pin/?username=Mahdi732&repo=Luxury_V2&theme=tokyonight&hide_border=true)](https://github.com/Mahdi732/Luxury_V2)
+## 🔥 GitHub Streak
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi732&theme=radical)
 </div>
 
 ## 💫 Coding Metrics
