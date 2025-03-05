@@ -119,6 +119,6 @@ const currentFocus = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   
-  ![Made with ❤️ by Mahdi](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mahdi-red?style=for-the-badge)
+  ![If you lose you die, if you win you live, if you do not fight you lose.](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mahdi-red?style=for-the-badge)
 </div>
 </div>
