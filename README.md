@@ -81,9 +81,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi732&theme=radical)
 </div>
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi732&theme=radical)
 ## 💫 Coding Metrics
 <div align="center">
 
