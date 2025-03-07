@@ -74,20 +74,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahdi732&theme=react-dark&hide_border=true&bg_color=0D1117&line=00faff&point=ffffff" width="100%"/>
 </div>
 
-## 🌟 Featured Projects
-<div align="center">
-
-[![Luxury_V2](https://github-readme-stats.vercel.app/api/pin/?username=Mahdi732&repo=Luxury_V2&theme=tokyonight&hide_border=true)](https://github.com/Mahdi732/Luxury_V2)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi732&theme=radical)
-</div>
-## 💫 Coding Metrics
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/Mahdi732?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&stars.limit=4&config.timezone=America%2FToronto)
-
-</div>
-
 ## 🎯 Current Focus
 ```javascript
 const currentFocus = {
