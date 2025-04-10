@@ -1,7 +1,4 @@
-<!-- Header Banner with Background -->
-<div align="center">
-  <img width="100%" height="auto" src="https://images6.alphacoders.com/137/thumbbig-1373123.webp" height="175px"/>
-</div> 
+
 
 <div align="center"> 
 
