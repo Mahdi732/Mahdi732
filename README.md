@@ -193,7 +193,7 @@ PHP/Laravel  40 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-### 💬 Reach Out to Me
+### 💬 Reach Out to Me  
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-profile)
@@ -263,9 +263,9 @@ PHP/Laravel  40 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-<div align="center">
-  
-### ⚡ Random Dev Quote
+<div align="center">  
+
+### ⚡ Random Dev Quote  
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -278,5 +278,3 @@ PHP/Laravel  40 mins         █░░░░░░░░░░░░░░░░
 ![Made with ❤️ by Mahdi](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by-Mahdi-red?style=for-the-badge)
 
 **💼 Open for opportunities | 🚀 Always learning | 🌟 Building the future**
-
-</div>
